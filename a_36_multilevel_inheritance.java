@@ -19,7 +19,7 @@ class c extends b
         System.out.println("C constructor");
     }
 }
-public class a_36_multiple_inheritance {
+public class a_36_multilevel_inheritance {
     public static void main(String[] args) {
     System.out.println("C class object ");
     c obj=new c();
