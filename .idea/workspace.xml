@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc2a13e-d868-43c4-9c97-ac5aa346ab99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_10_ternary_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_11_unary_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_12_bitwise_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_13_input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_14_if_statement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_15_if_elseif_else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_16_switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_17_group_switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_18_while_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_19_do_while.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_1_helloworld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_20_for_loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_21_for_eachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_22_break_continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_23_oneD_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_24_twoD_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_25_jagged_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_25_string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_26_string_BufferBulider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_27_function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_28_math_function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_29_recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_2_command_line_args.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_30_return_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_31_classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_32_getter_setter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_33_constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_34_array_objects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_35_single_inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_36_multilevel_inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_37_hierachical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_38_function_overloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_39_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_39_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_39_function_overriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_3_comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_4_variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_5_type_casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_6_arithmetic_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_7_assignment_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_8_relational_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/a_9_logical_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/b1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/c1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/d1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/e1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/f1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/g1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/son.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Obj6GmnF5DPJRI3sofCOIqFLA7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/SAKTHI M/Documents/coding/java/lib/mysql-connector.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
+      <module name="coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc2a13e-d868-43c4-9c97-ac5aa346ab99" name="Changes" comment="" />
+      <created>1681836003506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681836003506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
